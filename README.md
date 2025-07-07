@@ -47,6 +47,7 @@ Flask==2.3.3
 requests==2.31.0
 python-dotenv==1.0.0
 pytz==2024.1
+pip install google-generativeai
 ```
 ### 4. Add Your OpenSky API Credentials
 ```bash
